@@ -60,6 +60,13 @@ Soy estudiante de **Ingeniería de Sistemas** y Tecnóloga en **Desarrollo de Si
 
 ### 📌 Proyectos Destacados
 
+#### 🤖 Agente de IA Corporativo (RAG) — Alura / Oracle Next Education
+Agente de inteligencia artificial que responde en lenguaje natural preguntas sobre documentos corporativos (PDF, Word, Markdown, CSV), usando arquitectura **RAG (Retrieval-Augmented Generation)**. Pipeline de ingesta y recuperación con **LangChain**, embeddings y generación con **Google Gemini**, índice vectorial con **FAISS**, interfaz conversacional en **Streamlit**, desplegado en **Oracle Cloud Infrastructure (OCI)**.
+
+`Python` `LangChain` `Google Gemini` `FAISS` `Streamlit` `OCI`
+
+🔗 **[Ver repositorio](https://github.com/gisellsepulveda/alura-agente-educativo)**
+
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -89,7 +96,14 @@ Soy estudiante de **Ingeniería de Sistemas** y Tecnóloga en **Desarrollo de Si
 
 ---
 
+### 📊 Estadísticas de GitHub
 
+<div align="center">
+
+![Gisell's GitHub stats](https://github-readme-stats.vercel.app/api?username=gisellsepulveda&show_icons=true&theme=default&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gisellsepulveda&layout=compact&hide_border=true)
+
+</div>
 
 ---
 
