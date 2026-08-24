@@ -33,6 +33,7 @@ Soy estudiante de **Ingeniería de Sistemas** y Tecnóloga en **Desarrollo de Si
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
@@ -42,6 +43,7 @@ Soy estudiante de **Ingeniería de Sistemas** y Tecnóloga en **Desarrollo de Si
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
 
 **Bases de Datos**
@@ -70,9 +72,10 @@ Agente de inteligencia artificial que responde en lenguaje natural preguntas sob
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🏃 App de Running para Android</h4>
-      <p>Aplicación completa con arquitectura back-end y front-end propia. Integración de <b>Google Maps API</b> y GPS para rutas en tiempo real, autenticación con <b>OAuth 2.0</b>, sincronización en la nube con <b>Firebase</b> y persistencia offline con <b>SQLite</b>.</p>
-      <i>Java · Firebase · SQLite · Google Maps API</i>
+      <h4>🏃 App de Running (RUN_TRANK)</h4>
+      <p>Aplicación multiplataforma con arquitectura back-end y front-end propia. Integración de <b>Google Maps API</b> y GPS para rutas en tiempo real, autenticación con <b>OAuth 2.0</b>, sincronización en la nube con <b>Firebase</b> y persistencia offline con <b>SQLite</b>.</p>
+      <i>Flutter · Dart · Firebase · SQLite · Google Maps API</i><br/>
+      <a href="https://github.com/gisellsepulveda/RUN_TRANK">Ver repositorio</a>
     </td>
     <td width="50%" valign="top">
       <h4>🔧 API REST con Spring Boot</h4>
