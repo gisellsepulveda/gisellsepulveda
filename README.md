@@ -99,14 +99,7 @@ Agente de inteligencia artificial que responde en lenguaje natural preguntas sob
 
 ---
 
-### 📊 Estadísticas de GitHub
 
-<div align="center">
-
-![Gisell's GitHub stats](https://github-readme-stats.vercel.app/api?username=gisellsepulveda&show_icons=true&theme=default&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gisellsepulveda&layout=compact&hide_border=true)
-
-</div>
 
 ---
 
