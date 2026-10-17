@@ -2,7 +2,7 @@
 
 # ¡Hola! Soy Gisell Sepúlveda 👋
 
-### Desarrolladora de Software Junior | Web · Móvil · Back-End
+### Desarrolladora de Software | Web · Móvil · Back-End
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gisell-sepulveda-430235402)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gisellsepulveda3@gmail.com)
